@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # ~/.ssh/config
 
-Host your_server_ip
+Host 	52.86.77.133
     IdentityFile ~/.ssh/school
     PasswordAuthentication no
