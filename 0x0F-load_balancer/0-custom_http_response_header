@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # A script designed to set up and configure an Nginx server with a custom header.
 apt-get -y update
 apt-get -y install nginx
